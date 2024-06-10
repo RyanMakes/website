@@ -5,8 +5,8 @@ Ryan Makes 2024
 [image of Benny small painted 1]
 [image of Benny big painted 1]
 Accepting all bids during Benny's first public showing, Art Of Fashion June 15 2024 at Toronto's Goat Gallery.
-Bidding starts at 0.25 ETH for Little Brother Benny
-Bidding starts at 1 ETH for Big Brother Benny
+Bidding starts at 0.1337 ETH for Little Brother Benny
+Bidding starts at 0.69420 ETH for Big Brother Benny
 Each Benny comes with a rare Benny NFT (link)
  
 
