@@ -8,3 +8,12 @@ As a result, since my spiritually pure choice is foreclosed, I'm here in the ces
 It is, already, a nightmare.
 The horrors persist, but so do we.
 
+
+----------- 
+
+2024-06-10
+
+The above passage should be moved to a dated log page, as should this sentence and what follows in turn.
+We need to pick and start using a static site generator, and we need to deploy it to ryanmakes.ca and have /benny working right.
+Tomorrow.
+
